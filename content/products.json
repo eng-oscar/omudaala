@@ -1,9 +1,0 @@
-{
-  "products": [
-    {"name":"iPhone 15 128GB","price":"UGX 2,800,000","condition":"NEW","category":"Phones & Tablets","location":"Kampala","phone":"+256 700 123 456","icon":"📱"},
-    {"name":"HP ProBook Laptop","price":"UGX 1,200,000","condition":"USED","category":"Electronics","location":"Mbarara","phone":"+256 772 987 654","icon":"💻"},
-    {"name":"Modern 3-Seater Sofa","price":"UGX 850,000","condition":"NEW","category":"Home & Living","location":"Kampala","phone":"+256 782 111 222","icon":"🛋️"},
-    {"name":"Bajaj Boxer 150","price":"UGX 1,500,000","condition":"USED","category":"Vehicles","location":"Jinja","phone":"+256 703 445 566","icon":"🏍️"},
-    {"name":"Samsung Fridge 250L","price":"UGX 1,800,000","condition":"NEW","category":"Home Appliances","location":"Kampala","phone":"+256 701 998 877","icon":"🧊"}
-  ]
-}
